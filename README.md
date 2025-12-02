@@ -11,6 +11,14 @@
 
 **AMP** is a **real and functional** multi-agent system for comprehensive adverse media analysis and risk assessment. Using asynchronous processing, real external APIs, modern web interface, and advanced monitoring, AMP provides deep entity analysis through sophisticated orchestration of specialized AI agents.
 
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_r74pthr74pthr74p" src="https://github.com/user-attachments/assets/c5d0eb9b-89b4-46da-8840-a8352e74de80" />
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_r74pthr74pthr74p (1)" src="https://github.com/user-attachments/assets/7babb469-84d7-4f03-aba9-c8375f5890a7" />
+
+
+
+
 ## ✨ Implemented Features
 
 ### 🤖 **Real Multi-Agent System**
